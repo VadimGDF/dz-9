@@ -1,0 +1,226 @@
+.head{
+    text-align: center;
+    }
+    .MoGo{
+    margin-right: 632px;
+    width: 98px;
+    height: 33px;
+    font-family: Montserrat;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 37px;
+    color: #95E1D3;
+    margin-left: 160px;
+    }
+    .p5{
+        color: #F38181;
+        text-decoration: none;
+        width: 62px;
+    height: 17px;
+    margin-right: 55px;
+    font-family: Montserrat;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    }
+    .p55{
+        text-decoration: none;
+        color: #95E1D3;
+        width: 62px;
+    height: 17px;
+    margin-right: 55px;
+    font-family: Montserrat;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    }
+    .p32{
+        text-decoration: none;
+        color: #95E1D3;
+        width: 62px;
+    height: 17px;
+    margin-right: 32px;
+    font-family: Montserrat;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    }
+    .line{
+        width: 50px;
+        height: 3px;
+        background-color: #F38181;
+        margin-top: 10px;
+    }
+    .dis{
+        display: inline-block;
+    }
+    .dis-2{
+        display: inline-block;
+    }
+    .h3{
+    text-align: center;
+    font-family: Kaushan Script;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 35px;
+    color: #333;
+    }
+    .h2{
+    text-align: center;
+    color: #333;
+    margin-top: 40px;
+    font-family: Montserrat;
+    
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 37px;
+    }
+    .lorem{
+    color: #B6B6B6;
+    text-align: center;
+    margin-top: 45px;
+    
+width: 1104px;
+height: 47px;
+
+font-family: Roboto;
+font-weight: normal;
+font-size: 15px;
+line-height: 18px;
+
+    }
+    .img{
+        display: inline-block;
+        margin-left: 30px;
+    
+    }
+    
+    .line-2{
+        width: 60px;
+    height: 4px;
+    background-color: #F38181;
+    margin-left: 720px;
+    }
+    .ul{
+        display: flex;
+        flex-wrap: wrap;
+ 
+    }
+    .div{
+margin-top: 40px;
+width: 1168px;
+height: 253px;
+margin-left: 150px;
+    }
+    .li{
+        list-style-type: none;
+     color: #B6B6B6; 
+     width: 275.78px;
+
+font-family: Roboto;
+font-weight: normal;
+font-size: 15px;
+line-height: 22px; 
+margin-left: 70px;
+margin-top: 105px;
+
+    }
+    .span{
+        color: #333; 
+        margin-bottom: 20px;
+        position: absolute;
+width: 99.09px;
+height: 17px;
+font-family: Montserrat;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+    }
+    .img-2{
+        width: 37.8px;
+        height: 37px;
+        margin-bottom: 18px;
+        margin-right: 18px;
+    }
+    .div-2{
+        margin-top: 300px;
+    }
+    .h33{
+        text-align: center;
+        font-family: Kaushan Script;
+        font-weight: normal;
+        font-size: 24px;
+        line-height: 35px;
+        color: #333;
+    }
+    .h22{
+        text-align: center;
+        color: #333;
+        margin-top: 40px;
+        font-family: Montserrat;
+    }
+    .div-3{
+        margin-top: 68px;
+    }
+    .line-3{
+        height: 4px;
+        width: 60px;
+        background-color: #F38181;
+        margin-left: 720px;
+        margin-top: 40px;
+    }
+    .l{
+border: 1px solid #B6B6B6;
+width: 1200px;
+margin-left: 150px;
+    }
+    .t{
+        width: 297px;
+        height: 17px;
+        font-family: Montserrat;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 17px;
+        margin-left: 150px;
+        display: inline-block;
+    }
+    .e{
+        width: 230px;
+        height: 40px;
+        border: 1px solid #B6B6B6;
+
+
+
+color: #B6B6B6;
+    }
+    .l2{
+color: #F38181;
+    }
+    .bu{
+        width: 150px;
+        height: 43px;
+        background: #95E1D3;
+        
+    }
+    .but{
+        width: 74px;
+height: 17px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 17px;
+color: #fff;
+    }
+    .ee{
+display: inline-block;
+margin-left: 500px;
+margin-bottom: 50px;
+position: absolute;
+    }
+    .b{
+display: inline-block;
+position: absolute;
+margin-left: 700px;
+    }
